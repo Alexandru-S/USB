@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res" >
+            <file
+                name="barong"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\barong.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="camaro"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\camaro.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ceiling"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\ceiling.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="checkerboard"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\checkerboard.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="christmastree"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\christmastree.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="clouds_alpha2b"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\clouds_alpha2b.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="deadmickey"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\deadmickey.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="earth"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\earth.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="face_eyel_hi"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\face_eyel_hi.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="face_eyer_hi"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\face_eyer_hi.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="face_skin_hi"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\face_skin_hi.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="face_sock"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\face_sock.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="floor"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\floor.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\icon.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\ic_launcher.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="jupiter"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\jupiter.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="maqjpg"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\maqjpg.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="monster"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\monster.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="moon"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\moon.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ogrobase"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\ogrobase.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="poipoi"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\poipoi.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="revenant"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\revenant.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="snow_flake"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\snow_flake.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="stonetexture"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\stonetexture.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="uglysquares"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\uglysquares.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="white_with_alpha_hole"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\white_with_alpha_hole.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="wood"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\wood.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="wood_back"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\wood_back.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="wood_left"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\wood_left.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="wood_right"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable\wood_right.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_my"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\layout\activity_my.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="custom_layout_example"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\layout\custom_layout_example.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="keyframe_anim_layout"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\layout\keyframe_anim_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="lightproperties_layout"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\layout\lightproperties_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="scratch_layout"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\layout\scratch_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="splash_activity"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\layout\splash_activity.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="my"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\menu\my.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="camaro2_mtl"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\raw\camaro2_mtl"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="camaro2_obj"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\raw\camaro2_obj"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="camaro_mtl"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\raw\camaro_mtl"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="camaro_obj"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\raw\camaro_obj"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="face_mtl"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\raw\face_mtl"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="face_obj"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\raw\face_obj"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="monster_high"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\raw\monster_high.3ds"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ogro"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\raw\ogro.md2"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="snowflake2_mtl"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\raw\snowflake2_mtl"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="snowflake2_obj"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\raw\snowflake2_obj"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="snowman2_mtl"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\raw\snowman2_mtl"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="snowman2_obj"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\raw\snowman2_obj"
+                qualifiers=""
+                type="raw" />
+            <file
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >settings
+                </string>
+                <string name="app_name" >Christmas Tree
+                </string>
+                <string name="splashTitle" > MERRY CHRISTMAS 
+                </string>
+                <string name="myBlogUrl" >http://www.zeropointnine.com/blog
+                </string>
+                <string name="projectUrl" >ho ho ho
+                </string>
+            </file>
+            <file
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- Customize your theme here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\values-w820dp\dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+            <file
+                name="minion_obj"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\raw\minion_obj"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="minion_mtl"
+                path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\main\res\raw\minion_mtl"
+                qualifiers=""
+                type="raw" />
+        </source>
+        <source path="C:\Users\Owner\Desktop\USB\Blender_practice\app\build\generated\res\rs\debug" />
+        <source path="C:\Users\Owner\Desktop\USB\Blender_practice\app\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Owner\Desktop\USB\Blender_practice\app\src\debug\res" />
+    </dataSet>
+
+</merger>

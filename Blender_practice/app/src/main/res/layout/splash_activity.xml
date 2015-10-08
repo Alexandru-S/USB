@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/listActivity"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView android:id="@+id/splashTitle"
+        android:text="@string/splashTitle"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:padding="25sp"
+        android:layout_width="fill_parent"
+        android:layout_height="86dp"
+        android:textColorHighlight="#ffff001e"
+        android:textColorHint="#ffff2913"
+        android:textColor="#ffff2d27"
+        android:textIsSelectable="true"
+        android:background="@drawable/snow_flake" />
+
+    <ListView android:id="@+id/android:list"
+        android:layout_width="fill_parent"
+        android:layout_height="893dp"
+        android:drawSelectorOnTop="false"
+        android:background="@drawable/snow_flake" />
+
+</LinearLayout>

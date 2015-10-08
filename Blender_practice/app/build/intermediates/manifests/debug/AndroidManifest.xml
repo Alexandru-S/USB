@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lebuckle.blender_practice"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="20" />
+
+    <application
+        android:icon="@drawable/christmastree"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        <activity
+            android:name="com.example.lebuckle.blender_practice.SplashActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+        <activity
+            android:name="com.example.lebuckle.blender_practice.Obj3DView"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.example.lebuckle.blender_practice.ExampleRotatingPlanets"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.example.lebuckle.blender_practice.ExampleMostMinimal"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.example.lebuckle.blender_practice.ExampleVertexColors"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.example.lebuckle.blender_practice.ExampleTextures"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.example.lebuckle.blender_practice.ExampleVerticesVariations"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.example.lebuckle.blender_practice.ExampleRenderType"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.example.lebuckle.blender_practice.ExampleCamera"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.example.lebuckle.blender_practice.ExampleMultipleLights"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.example.lebuckle.blender_practice.ExampleAnimatingVertices"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.example.lebuckle.blender_practice.ExampleSubsetOfFaces"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.example.lebuckle.blender_practice.ExampleAssigningTexturesDynamically"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.example.lebuckle.blender_practice.ExampleTextureWrap"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.example.lebuckle.blender_practice.ExampleMipMap"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.example.lebuckle.blender_practice.ExampleMultiTexture"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.example.lebuckle.blender_practice.ExampleTextureOffset"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.example.lebuckle.blender_practice.ExampleFog"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.example.lebuckle.blender_practice.ExampleTransparentGlSurface"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.example.lebuckle.blender_practice.ExampleLoadObjFile"
+            android:label="@string/app_name" />
+        <activity android:name="com.example.lebuckle.blender_practice.ExampleLoadObjFileMultiple" />
+        <activity android:name="com.example.lebuckle.blender_practice.ExampleLoad3DSFile" />
+        <activity android:name="com.example.lebuckle.blender_practice.ExampleLoadMD2File" />
+        <activity
+            android:name="com.example.lebuckle.blender_practice.ExampleInsideLayout"
+            android:label="@string/app_name" />
+        <activity android:name="com.example.lebuckle.blender_practice.ExampleKeyframeAnimation" />
+        <activity android:name="com.example.lebuckle.blender_practice.ExampleAccelerometer" />
+
+        <!-- Debugging-related activities: -->
+        <activity
+            android:name="com.example.lebuckle.blender_practice.ScratchActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.example.lebuckle.blender_practice.ExampleLightProperties"
+            android:label="@string/app_name" />
+    </application>
+
+</manifest>

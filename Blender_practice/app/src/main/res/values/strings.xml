@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Christmas Tree</string>
+    <string name="splashTitle"> MERRY CHRISTMAS </string>
+    <string name="projectUrl">ho ho ho</string>
+    <string name="myBlogUrl">http://www.zeropointnine.com/blog</string>
+
+    <string name="action_settings">settings</string>
+
+</resources>  
